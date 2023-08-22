@@ -1,0 +1,6 @@
+INFO:__main__:type=Bird, name=Ласточка, unique=20
+INFO:__main__:type=Mammal, name=Гепард, unique=85
+ERROR:__main__:Параметр --type может быть только (Bird, Fish, Mammal)
+ERROR:__main__:Параметр --unique может быть только числом
+ERROR:__main__:Параметр --type может быть только (Bird, Fish, Mammal)
+INFO:__main__:type=Mammal, name=Гепард, unique=85.5

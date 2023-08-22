@@ -1,0 +1,7 @@
+INFO:__main__:files(name='hw1', ext='log', is_folder=False, parent_folder='.')
+INFO:__main__:files(name='hw1', ext='py', is_folder=False, parent_folder='.')
+INFO:__main__:files(name='hw2_1', ext='log', is_folder=False, parent_folder='.')
+INFO:__main__:files(name='hw2_1', ext='py', is_folder=False, parent_folder='.')
+INFO:__main__:files(name='hw2_2', ext='log', is_folder=False, parent_folder='.')
+INFO:__main__:files(name='hw2_2', ext='py', is_folder=False, parent_folder='.')
+INFO:__main__:files(name='hw2_3', ext='py', is_folder=False, parent_folder='.')
